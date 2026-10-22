@@ -11,6 +11,8 @@ descriptions are in English; recordings are in Russian.
 * [Searchable seminar index](INDEX.md) — browse 151 entries by topic, paper title, speaker, or date.
 * [Seminar recording archive (2023–2026)](diffusion_research_seminars_09_2026.pdf) — English guide with recording links and access codes.
 * [Seminar slides](slides/)
+  * [Preference Optimization](slides/Preference%20Optimization%20%E2%80%94%20Talk%20Outline.pdf) — Andrei Filatov, 2026: DPO for diffusion, FiFA, Rethinking DPO, ThermoDPO
+  * [RL for Diffusion](slides/RL%20for%20Diffusion.pdf) — Andrei Filatov, 2026: ReFL, DRaFT, DRTune, ShortFT, Flow-GRPO, DiffusionNFT, AWM
 * [Research seminar Telegram group](https://t.me/+gE2ERaknHecyMjZi)
 
 ## Research seminar assistant
@@ -47,6 +49,6 @@ If the skill does not appear, restart Codex after opening the repository.
 The skill uses the archive to locate talks and reads linked papers for technical
 explanations. Claims about what a speaker said, and recording timestamps, require
 accessible recording content or transcripts. The current archive includes recording
-links and paper references; the slides folder is a placeholder.
+links and paper references; the slides folder holds PDF slides for selected talks.
 
 For foundational lectures and exercises, start with the [Visual GenAI course](../visual_genai_course_2026/README.md).
