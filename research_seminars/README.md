@@ -2,6 +2,8 @@
 
 [Repository overview](../README.md) · [Visual GenAI course](../visual_genai_course_2026/README.md)
 
+[Visual Diffusion Post-Training (2026)](../visual-diffusion-post-training-2026/README.md)
+
 A research seminar series on diffusion models and related generative methods.
 Use the archive to find talks, recordings, and the papers discussed. The archive
 descriptions are in English; recordings are in Russian.
@@ -11,9 +13,7 @@ descriptions are in English; recordings are in Russian.
 * [Searchable seminar index](INDEX.md) — browse 151 entries by topic, paper title, speaker, or date.
 * [Seminar recording archive (2023–2026)](diffusion_research_seminars_09_2026.pdf) — English guide with recording links and access codes.
 * [Seminar slides](slides/)
-  * [Preference Optimization](slides/Preference%20Optimization.pdf) — Andrei Filatov, 2026: DPO for diffusion, FiFA, Rethinking DPO, ThermoDPO
-  * [RL for Diffusion](slides/RL%20for%20Diffusion.pdf) — Andrei Filatov, 2026: ReFL, DRaFT, DRTune, ShortFT, Flow-GRPO, DiffusionNFT, AWM
-  * [RL for Diffusion, Part 2](slides/RL%20for%20Diffusion%20Part%202.pdf) — Andrei Filatov, 2026: reward models (ImageReward, VQAScore, VisionReward, RewardDance, SpatialCritic) and balancing several rewards (GDPO, GD²PO, DAPO, Qwen-Image-2.0-RL)
+* [Visual Diffusion Post-Training (2026)](../visual-diffusion-post-training-2026/README.md) — Andrei Filatov's DPO and RL series, with slides, Russian recordings, passcodes, and blog posts.
 * [Research seminar Telegram group](https://t.me/+gE2ERaknHecyMjZi)
 
 ## Research seminar assistant

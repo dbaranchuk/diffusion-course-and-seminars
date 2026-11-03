@@ -13,6 +13,16 @@ materials. Slides are in English and recordings are in Russian.
 **[Open the course README →](visual_genai_course_2026/README.md)** for the syllabus, slides, recordings,
 assignments, exam information, and course contacts.
 
+## Visual Diffusion Post-Training (2026)
+
+Andrei Filatov's three-part series covers preference optimization (DPO),
+reinforcement learning for diffusion models, reward modeling, and balancing
+multiple rewards.
+
+**[Open the post-training materials →](visual-diffusion-post-training-2026/README.md)**
+for all three slide decks, recordings in Russian with passcodes, and accompanying
+blog posts.
+
 ## Research Seminars on Diffusion Models
 
 The seminar series explores current research in diffusion models and related
@@ -24,8 +34,8 @@ archive, find slides, and join the Telegram group.
 
 ## Study with Codex
 
-Both collections include a skill that helps Codex navigate the materials and ground
-its answers in the relevant sources:
+The course and research seminar archive each include a skill that helps Codex
+navigate the materials and ground its answers in the relevant sources:
 
 - **[Course tutor](visual_genai_course_2026/README.md#study-with-the-course-tutor):** explanations,
   assignment guidance, study plans, and exam practice.
