@@ -13,6 +13,7 @@ descriptions are in English; recordings are in Russian.
 * [Seminar slides](slides/)
   * [Preference Optimization](slides/Preference%20Optimization.pdf) — Andrei Filatov, 2026: DPO for diffusion, FiFA, Rethinking DPO, ThermoDPO
   * [RL for Diffusion](slides/RL%20for%20Diffusion.pdf) — Andrei Filatov, 2026: ReFL, DRaFT, DRTune, ShortFT, Flow-GRPO, DiffusionNFT, AWM
+  * [RL for Diffusion, Part 2](slides/RL%20for%20Diffusion%20Part%202.pdf) — Andrei Filatov, 2026: reward models (ImageReward, VQAScore, VisionReward, RewardDance, SpatialCritic) and balancing several rewards (GDPO, GD²PO, DAPO, Qwen-Image-2.0-RL)
 * [Research seminar Telegram group](https://t.me/+gE2ERaknHecyMjZi)
 
 ## Research seminar assistant
