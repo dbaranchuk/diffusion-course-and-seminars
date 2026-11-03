@@ -5,7 +5,7 @@
 A research seminar series on diffusion models and related generative methods.
 Use the archive to find talks, recordings, and the papers discussed. The archive
 descriptions are in English; recordings are in Russian.
-  * 
+
 ## Materials
 
 * [Searchable seminar index](INDEX.md) — browse 151 entries by topic, paper title, speaker, or date.
